@@ -1,0 +1,15 @@
+img{
+    height: 180px;
+    width: 200px;
+}
+h2{
+    color: blue;
+}
+p{
+    color: #7fff00;
+    font-size: 32px;
+    text-align: center;
+}
+body{
+    background-color:rgb(245, 238, 238);
+}
