@@ -72,13 +72,17 @@ div img {
     text-align: center;
     display: flex;
     flex-direction:column ;
-    justify-content: center;
-    
+    align-items: center;
+  justify-content: center;  
+}
+#container-de-descricao p{
+    width: 12.5%;
     
 }
 
 #container-de-descricao>ol {
     padding: 15px 0px;
+    
 }
 
 #container-para-comprar {
